@@ -2,7 +2,7 @@
 
 You can view or download the project presentation here:
 
-[📎 Download Project_Presentation.pptx](./Major Project 2 Presentation.pptx)
+[📎 Download Project_Presentation.pptx](./Major%20Project%202%20Presentation.pptx)
 
 
 
