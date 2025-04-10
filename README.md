@@ -8,7 +8,7 @@ You can view or download the project presentation here:
 
 ## 📄 Project Report
 
-[📘 Download Project Report (PDF)](./Project_Report.pdf)
+[📘 Download Project Report (PDF)](./Project%20Report.pdf)
 
 
 
